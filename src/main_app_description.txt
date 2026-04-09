@@ -1,0 +1,4 @@
+Main app component to upload/parse YAML configs
+Node selection UI with connection testing
+Real-time latency/speed visualization
+Start with a basic React component structure
